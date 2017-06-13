@@ -1,2 +1,2 @@
 hallo wos geht
-console.log('Elias war hier')
+console.log('Elias war gestern hier')
